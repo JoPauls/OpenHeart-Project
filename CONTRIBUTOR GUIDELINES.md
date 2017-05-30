@@ -1,4 +1,8 @@
-# Contributing to [Project]
+![openheart logo big](https://cloud.githubusercontent.com/assets/29052135/26570534/7620fae6-4554-11e7-8481-e0dfbe25eb17.PNG)
+
+---
+
+# How can you help?!?
 
 Add a bit of welcome and cheer at the top
 >Thank you for your interest in contributing to [Project] :tada:! 
@@ -16,7 +20,7 @@ If your guide is long, consider adding a table of contents.
 * [What we're working on](#what-were-working-on)
 * [How to submit changes](#how-to-submit-changes)
 * [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
+* [How to get in touch?](#how-to-get-in-touch)
 
 ## Participation guidelines
 
@@ -50,7 +54,7 @@ Most projects invite all contributors to report bugs, so "debugging" or fixing p
 
 > Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
 
-## Communication channels
+## How to get in touch?
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+If you have questions in regards to the [OpenHeart Project](https://github.com/JoPauls/OpenHeart-Project) or are keen to get involved, please send an email to j.pauls@uq.edu.au. 
 
