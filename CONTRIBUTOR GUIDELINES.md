@@ -13,7 +13,7 @@ Restart your project vision here. Redundancy is your friend
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
 * [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
+* [How to contribute?](#how-to-contribute)
 * [Participation guidelines](#participation-guidelines)
 * [How to get in touch?](#how-to-get-in-touch)
 
@@ -27,17 +27,17 @@ This is a good place to link your Roadmap, GitHub Milestones, or Projects so new
 
 Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
 
-## How to submit changes
+## How to contribute?
 
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
+The OpenHeart Project is just starting out and we are still in the planning stages on how we can actually achieve our aim of creating an open-source platform to facilitate open-science in the field of mechanical circulatory support.
+Thus there is no code to improve or bugs to find and fix at this stage.
+It is more a brainstorming session to collate ideas on how best to implement each individual feature and link it together into one platform.
 
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
- 
-> 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-> 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-> 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+An [Issue](https://github.com/JoPauls/OpenHeart-Project/issues) was created for each individual feature. 
+Please comment on the individual issue with your ideas and tips or feel free to add your own ideas on what might be a helpful feature for an open-source research platform.
 
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+If you are contributing to open source for the first time (like us), check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+We did :)
 
 
 ## Participation guidelines
