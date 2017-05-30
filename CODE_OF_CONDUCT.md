@@ -1,7 +1,7 @@
 <!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
-This project, participating in the Mozilla Global Sprint 2017, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, contributors, and anyone else involved in making the OpenHeart Project possible.
+The OpenHeart Project, participating in the Mozilla Global Sprint 2017, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, contributors, and anyone else involved in making the OpenHeart Project possible.
 
 ## How to treat each other
 
