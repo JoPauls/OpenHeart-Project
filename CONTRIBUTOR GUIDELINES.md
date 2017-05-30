@@ -12,19 +12,12 @@ Restart your project vision here. Redundancy is your friend
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
-
-* [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
 * [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
+* [Participation guidelines](#participation-guidelines)
 * [How to get in touch?](#how-to-get-in-touch)
 
-## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
 ## What we're working on
 
@@ -46,13 +39,11 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-## How to report bugs
 
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
+## Participation guidelines
 
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to j.pauls@uq.edu.au.
 
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
 
 ## How to get in touch?
 
