@@ -4,28 +4,20 @@
 
 # How can you help?!?
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+Everyone, thank you for finding your way to the [OpenHeart Project](https://github.com/JoPauls/OpenHeart-Project)
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+The OpenHeart Project is an open-source project aimed at fostering international collaboration between PhD students and researchers in the field of mechanical circulatory support to improve and develop mechanical assist devices for treatment of heart failure patients in these developing countries where treatment options are currently limited.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+To do this, we want to implement an open-source online platform with the following features:
 
-* [What we're working on](#what-were-working-on)
-* [How to contribute?](#how-to-contribute)
-* [Participation guidelines](#participation-guidelines)
-* [How to get in touch?](#how-to-get-in-touch)
+*	OpenHeart Project website
+*	Data Repository (incl. Version Control)
+*	Discussion Forum
+*	Mechanical Circulatory Support Wiki
+*	Identity Verification (e.g. through Email and/or ORCID ID)
 
+This documents is a set of guidelines for contributing to the project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
-
-## What we're working on
-
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
-
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
 
 ## How to contribute?
 
