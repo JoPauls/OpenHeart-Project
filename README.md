@@ -26,3 +26,9 @@ Features of the OpenHeart platform will be:
 The OpenHeart Project website will be used to inform researchers and the general public about the background, aims and progress of the OpenHeart Project. The data repository will give PhD students and researchers worldwide the chance to upload and download their research data and experimental protocols. Through this data repository international collaboration can be facilitated in order to reduce research and development cost in the field of mechanical circulatory support, as this data will be freely available to all research groups for their work and experiments. The discussion forum will give the opportunity to raise research questions or propose collaborations / projects to the research community. A wiki website catered to mechanical circulatory support can be developed over time to define common terms used in the field, which would help to standardize definitions in the field and give PhD students and early careers researchers another point of reference.
 
 
+## How to Contribute ?!?
+Information on how to best contribute at this stage of the project can be found in the [Contributor Guidelines](https://github.com/JoPauls/OpenHeart-Project/blob/master/CONTRIBUTOR%20GUIDELINES.md}
+
+
+## Code of Conduct
+The OpenHeart Project adheres to a [Code of Conduct](https://github.com/JoPauls/OpenHeart-Project/blob/master/CODE_OF_CONDUCT.md)
