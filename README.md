@@ -27,7 +27,7 @@ The OpenHeart Project website will be used to inform researchers and the general
 
 
 ## How to Contribute ?!?
-Information on how to best contribute at this stage of the project can be found in the [Contributor Guidelines](https://github.com/JoPauls/OpenHeart-Project/blob/master/CONTRIBUTOR%20GUIDELINES.md}
+Information on how to best contribute at this stage of the project can be found in the [Contributor Guidelines](https://github.com/JoPauls/OpenHeart-Project/blob/master/CONTRIBUTOR%20GUIDELINES.md)
 
 
 ## Code of Conduct
