@@ -54,7 +54,7 @@ The OpenHeart Project was initiated by Prof Geoff Tansley (Griffith University) 
 We need expertise in webdesign, user experience design, documentation, video tutorial creation and animation to improve upon the current state of the website and existing documentation.
 
 ## How to Contribute ?!?
-Information on how to best contribute at this stage of the project can be found in the [Contributor Guidelines](https://github.com/JoPauls/OpenHeart-Project/blob/master/CONTRIBUTOR%20GUIDELINES.md)
+Information on how to best contribute at this stage of the project can be found in the [Contributor Guidelines](https://github.com/JoPauls/OpenHeart-Project/blob/master/CONTRIBUTING.md)
 
 ## Contact us
 If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](https://github.com/JoPauls/OpenHeart-Project/issues) at this github repository. That way we can get right on it.
