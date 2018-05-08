@@ -5,7 +5,7 @@
 # Welcome!
 Thank you for visiting the OpenHeart Project repository on GitHub.
 
-This document (the README.md file) will give you some information about the project. You can either jump straigth to the sections of interest below, or simply scroll down through the whole document to find out more.
+This document (the README.md file) will give you some information about the project.
 
 * [Background](#Background)
 * [Aims and Objectives](#Aims-and-Objectives)
