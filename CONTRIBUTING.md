@@ -29,7 +29,7 @@ If you are not a member yet, please visit our [website](https://openheartproject
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to j.pauls@uq.edu.au.
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to contact@openheartproject.org.
 
 
 ## How to get in touch?
