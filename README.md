@@ -7,7 +7,7 @@ Thank you for visiting the OpenHeart Project repository on GitHub.
 
 This document (the README.md file) will give you some information about the project.
 
-* [Background](##Background)
+* [Background](#Background)
 * [Aims and Objectives](#Aims-and-Objectives)
 * [OpenHeart Structure](#OpenHeart-Structure)
 * [Who we are](#Who-are-we?)
