@@ -15,6 +15,8 @@ This document (the README.md file) will give you some information about the proj
 * [How to contribute](#How-to-contribute-?!?)
 * [Contact us](#Contact-us)
 
+However, if you already know about OpenHeart and are here to contribute, feel free to jump straigth to the [Issues](https://github.com/JoPauls/OpenHeart-Project/issues) and / or [Contributor Guidelines](https://github.com/JoPauls/OpenHeart-Project/blob/master/CONTRIBUTING.md).
+
 ## Background
 Cardiovascular diseases (CVD) are attributed as the leading cause of death throughout the developed world, accounting for 29% of all deaths in Australia in 2014. CVD often leads to heart failure (HF) and evidence from current literature suggests that HF is the fastest growing CVD globally. The use of mechanical circulatory support (MCS) in the management of acute and chronic HF is continuously expanding with more than 20k devices implanted worldwide by 2016. However, the research field of MCS consists of researchers from multiple international research laboratories and universities spread around the globe and research is often undertaken in isolation within each laboratory, limiting inter-laboratory collaboration and thus the full potential of the field of MCS. 
 
