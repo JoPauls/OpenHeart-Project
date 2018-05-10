@@ -7,13 +7,13 @@ Thank you for visiting the OpenHeart Project repository on GitHub.
 
 This document (the README.md file) will give you some information about the project.
 
-* [Background](#Background)
-* [Aims and Objectives](#Aims-and-Objectives)
-* [OpenHeart Structure](#OpenHeart-Structure)
-* [Who we are](#Who-are-we?)
-* [What we need](#What-do-we-need?)
-* [How to contribute](#How-to-contribute-?!?)
-* [Contact us](#Contact-us)
+* [Background](#background)
+* [Aims and Objectives](#aims-and-objectives)
+* [OpenHeart Structure](#openHeart-structure)
+* [Who we are](#who-are-we?)
+* [What we need](#what-do-we-need?)
+* [How to contribute](#how-to-contribute-?!?)
+* [Contact us](#contact-us)
 
 However, if you already know about OpenHeart and are here to contribute, feel free to jump straigth to the [Issues](https://github.com/JoPauls/OpenHeart-Project/issues) and / or [Contributor Guidelines](https://github.com/JoPauls/OpenHeart-Project/blob/master/CONTRIBUTING.md).
 
